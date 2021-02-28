@@ -1,0 +1,36 @@
+body {
+	background-color: darkslategrey;
+	font-family: tahoma;
+}
+h2,h3 {
+	color: blue;
+}
+
+p {
+	color: lightgreen;
+}
+ul {
+	color: lightgreen;
+}
+ol{
+	color: lightgreen;
+}
+span {
+  font-size: 150%;
+  
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+
+b
+{
+	color: green;
+}
